@@ -1,0 +1,13 @@
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\bin\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.exe
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\bin\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.deps.json
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\bin\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.runtimeconfig.json
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\bin\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.runtimeconfig.dev.json
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\bin\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.dll
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\bin\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.pdb
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\obj\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\obj\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\obj\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.AssemblyInfo.cs
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\obj\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\obj\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.dll
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\obj\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.pdb
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\ESTRUTURADEDECISÃO\obj\Debug\netcoreapp3.1\ESTRUTURADEDECISÃO.genruntimeconfig.cache

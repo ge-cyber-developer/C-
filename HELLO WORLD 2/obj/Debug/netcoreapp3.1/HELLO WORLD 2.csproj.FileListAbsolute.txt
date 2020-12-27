@@ -1,0 +1,13 @@
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\obj\Debug\netcoreapp3.1\HELLO WORLD 2.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\obj\Debug\netcoreapp3.1\HELLO WORLD 2.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\obj\Debug\netcoreapp3.1\HELLO WORLD 2.AssemblyInfo.cs
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\obj\Debug\netcoreapp3.1\HELLO WORLD 2.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\bin\Debug\netcoreapp3.1\HELLO WORLD 2.exe
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\bin\Debug\netcoreapp3.1\HELLO WORLD 2.deps.json
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\bin\Debug\netcoreapp3.1\HELLO WORLD 2.runtimeconfig.json
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\bin\Debug\netcoreapp3.1\HELLO WORLD 2.runtimeconfig.dev.json
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\bin\Debug\netcoreapp3.1\HELLO WORLD 2.dll
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\bin\Debug\netcoreapp3.1\HELLO WORLD 2.pdb
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\obj\Debug\netcoreapp3.1\HELLO WORLD 2.dll
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\obj\Debug\netcoreapp3.1\HELLO WORLD 2.pdb
+C:\Users\giova\Desktop\pastaDoDe\TREINO C#\HELLO WORLD 2\obj\Debug\netcoreapp3.1\HELLO WORLD 2.genruntimeconfig.cache
